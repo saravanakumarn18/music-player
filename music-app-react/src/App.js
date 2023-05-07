@@ -29,30 +29,6 @@ function App() {
       img_src: "./images/burjkalifa.jpg",
       src: "./songs/4.mpeg",
     }
-    // {
-    //   title: "Tango Del Fuego",
-    //   artist: "Parov Stelar",
-    //   img_src: "./images/ParovStelarGeorgiaGibbs-TangoDelFuego.jpg",
-    //   src: "./music/ParovStelarGeorgiaGibbs-TangoDelFuego.mp3",
-    // },
-    // {
-    //   title: "Take You Dancing",
-    //   artist: "Jason Derulo",
-    //   img_src: "./images/JasonDerulo-TakeYouDancing.jpg",
-    //   src: "./music/JasonDerulo-TakeYouDancing.mp3",
-    // },
-    // {
-    //   title: "Daisy",
-    //   artist: "Ashnikko",
-    //   img_src: "./images/Ashnikko-Daisy.jpg",
-    //   src: "./music/Ashnikko-Daisy.mp3",
-    // },
-    // {
-    //   title: "Dolly Song",
-    //   artist: "Partz Grimbad",
-    //   img_src: "./images/PatzGrimbard-DollySong.jpg",
-    //   src: "./music/PatzGrimbard-DollySong.mp3",
-    // },
   ]);
 
   const [currentSongIndex, setCurrentSongIndex] = useState(0);

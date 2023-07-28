@@ -1,5 +1,4 @@
 # Music-Player with JavaScript
-
 Function
 1) Random Song
 2) Previous Song
